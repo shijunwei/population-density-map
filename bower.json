@@ -1,0 +1,14 @@
+{
+  "name": "population-density-map",
+  "description": "a client density of population application to show the real-time population move",
+  "main": "index.html",
+  "authors": [
+    "shijunwei"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "http://shijunwei.github.io",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

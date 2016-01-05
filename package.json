@@ -1,0 +1,16 @@
+{
+  "name": "population-density-map",
+  "version": "1.0.0",
+  "description": "a client density of population application to show the real-time population move",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shijunwei",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-webserver": "^0.9.1"
+  }
+}
